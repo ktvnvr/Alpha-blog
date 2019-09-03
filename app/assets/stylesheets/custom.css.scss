@@ -9,8 +9,8 @@ $navbar-default-bg: #CDC0D8;
     padding-bottom: 5px;
     transition: all 0.3s;
     font-size: 12px;
-    font-family: arial;
-    font-weight: bold;
+    font-family: marker felt;
+    font-weight: normal;
     text-transform: uppercase;
     text-decoration-color: black;
     letter-spacing: 1px;
@@ -23,7 +23,7 @@ $navbar-default-bg: #CDC0D8;
 .jumbotron {
   background-image: asset-url('image1.jpg');
   background-size: cover;
-  height: 550px;
+  height: 500px;
 
 }
 
@@ -33,6 +33,8 @@ $navbar-default-bg: #CDC0D8;
   margin-bottom: 30px;
   letter-spacing: 2px;
   font-weight: bold;
+  text-shadow: gray 10px 0 10px;
+  font-family: marker felt;
 }
 
 .btn-medium {
@@ -42,7 +44,7 @@ $navbar-default-bg: #CDC0D8;
 }
 
 footer {
-  maring-top: 45px;
+  margin-top: 45px;
   padding-top: 5px;
   border-top: 1px solid gray;
   color: black;
