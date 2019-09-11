@@ -43,8 +43,14 @@ $navbar-default-bg: #CDC0D8;
 
 }
 
+.article-meta-details {
+  border-top: 1px solid #eaeaea;
+  margin-top: 15px;
+  text-align: center;
+}
+
 .article-actions {
-  border-top: 2px solid gray;
+  border-top: 2px solid #eaeaea;
   padding-top: 5px;
 }
 
@@ -54,13 +60,16 @@ $navbar-default-bg: #CDC0D8;
 
 .article-title {
   font-weight: bold;
-  font-size: 1.0cm;
+  font-size: 0.7cm;
+  font-family: arial;
 }
 
 .article-body {
   border-top: 1px solid gray;
   padding-top: 15px;
   padding-bottom: 15px;
+  font-family: arial;
+  font-size: 0.4cm;
 }
 
 
