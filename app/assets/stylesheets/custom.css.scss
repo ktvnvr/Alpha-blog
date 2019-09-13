@@ -8,12 +8,12 @@ $navbar-default-bg: #CDC0D8;
     padding-top: 5px;
     padding-bottom: 5px;
     transition: all 0.3s;
-    font-size: 12px;
-    font-family: marker felt;
-    font-weight: normal;
+    font-size: 11px;
+    font-family: sans-serif;
+    font-weight: bolder;
     text-transform: uppercase;
     text-decoration-color: black;
-    letter-spacing: 1px;
+    letter-spacing: .1px;
 }
 
 .center {
@@ -34,7 +34,7 @@ $navbar-default-bg: #CDC0D8;
   letter-spacing: 2px;
   font-weight: bold;
   text-shadow: gray 10px 0 10px;
-  font-family: marker felt;
+  font-family: sans-serif;
 }
 
 .btn-medium {
