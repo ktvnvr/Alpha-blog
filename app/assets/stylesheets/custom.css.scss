@@ -5,15 +5,17 @@ $navbar-default-bg: #CDC0D8;
 @import "bootstrap";
 
 .navbar { // the initial style of the navbar
-    padding-top: 5px;
+    padding-top: 6px;
     padding-bottom: 5px;
     transition: all 0.3s;
     font-size: 14px;
-    font-family: sans-serif;
-    font-weight: lighter;
+    font-family: arial;
+    font-weight: normal;
     text-transform: full-width;
     text-decoration-color: black;
     letter-spacing: .1px;
+  
+
 }
 
 .center {
