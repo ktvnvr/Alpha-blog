@@ -80,6 +80,16 @@ $navbar-default-bg: #CDC0D8;
 
 }
 
+.badge {
+  background-color: beige;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  font-weight: bold;
+}
+
+.input_checkbox input {
+  width: auto !important;
+}
 
 footer {
   margin-top: 45px;
